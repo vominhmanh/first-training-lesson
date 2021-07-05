@@ -1,0 +1,2 @@
+Đây là file tài liệu 01
+Buổi học đầu tiên về git/ git bash
